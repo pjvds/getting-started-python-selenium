@@ -18,4 +18,7 @@ class TestUbuntuHomepage(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    display = Display(visible=0, size=(800, 600))
+    display.start()
     unittest.main(verbosity=2)
+    display.stop()

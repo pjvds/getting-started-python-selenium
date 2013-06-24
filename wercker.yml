@@ -3,7 +3,7 @@ build:
   steps:
     - script:
         name: Install selenium
-        code: pip install selenium
+        code: sudo pip install selenium
     - script:
         name: Test with selenium
         code: python test_google.py
