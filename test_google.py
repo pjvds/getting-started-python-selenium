@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import unittest
+from pyvirtualdisplay import Display
 from selenium import webdriver
 
 
