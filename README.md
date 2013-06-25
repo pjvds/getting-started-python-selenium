@@ -23,6 +23,9 @@ build:
         code: |
           sudo pip install selenium
           sudo pip install pyvirtualdisplay
+    - script:
+        name: Start Firefox in virtual frame buffer
+        code: xvfb-run firefox
     # This is a script step that actually executes the python code that
     # contains the selenium tests.
     - script:
