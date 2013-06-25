@@ -1,4 +1,4 @@
-getting-started-python-selenium
+Getting started python selenium
 ===============================
 
 Simple pyhton project that contains a selenium test that gets executed on wercker.
