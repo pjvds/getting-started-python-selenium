@@ -3,6 +3,8 @@ Getting started python selenium
 
 Simple pyhton project that contains a selenium test that gets executed on wercker.
 
+[![wercker status](https://app.wercker.com/status/f3bc16529ea4952d9dc875696d21048c/m "wercker status")](https://app.wercker.com/project/bykey/f3bc16529ea4952d9dc875696d21048c)
+
 
 ## Wercker.yml
 
